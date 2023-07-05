@@ -1,2 +1,3 @@
-Simple calculator.
+🧮Simple calculator
+
 in progress...
